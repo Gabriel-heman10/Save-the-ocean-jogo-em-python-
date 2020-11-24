@@ -1,2 +1,2 @@
-# Save the ocean jogo e python 
+# Save the ocean jogo em python 
  jogo em phyton pca
